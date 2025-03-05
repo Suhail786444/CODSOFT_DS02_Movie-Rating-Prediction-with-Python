@@ -1,1 +1,0 @@
-# CODSOFT_DS02_Movie-Rating-Prediction-with-Python
