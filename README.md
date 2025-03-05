@@ -1,4 +1,4 @@
-# **Titanic Survival Prediction**
+# **Movie Rating  Prediction with Python**
 
 ## Table of Contents
 - [Project Overview](#Project-Overview)
